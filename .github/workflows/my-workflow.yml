@@ -18,4 +18,4 @@ jobs:
         firstGreeting: "Learning Lab User"
         
     - name: meow
-      uses: ./github/actions/cat-facts
+      uses: ./.github/actions/cat-facts
